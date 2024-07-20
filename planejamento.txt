@@ -7,7 +7,7 @@
 
 -Filmes/Series
     -thumb
-    -titulo
+    -tituloaw
     -descrição
     -quantidade de views
     -data de criação
